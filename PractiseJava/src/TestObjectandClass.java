@@ -11,8 +11,9 @@ public class TestObjectandClass {
 		OC.name="Princy";
 		System.out.println(OC.id);
 		System.out.println(OC.name);
-		System.out.ln("HI poorni123");
-		System.out.ln("HI poorni");
+		System.out.ln("HI test123");
+		System.out.ln("HI test1");
+		
 		}
 
 }
